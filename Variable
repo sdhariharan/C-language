@@ -1,0 +1,11 @@
+                           Variable
+A variable is a named memory location used to store data.
+                
+                Rules to name the variable
+1)Can contain letters, digits, and underscore (_)
+2)Must start with a letter or _
+3)Case sensitive (Age and age are different)
+4)Cannot use keywords (int, float, etc.)
+Examples
+        Valid -> marks, total_sum, age1
+        Invalid -> 1age, my-name, float
